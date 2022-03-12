@@ -1,0 +1,20 @@
+.idea
+build
+.vscode
+
+# Logs
+logs
+*.log
+**/logs/
+config/default.json
+**/files_variables/
+
+# Dependency directories
+**/node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Different temporary files
+**bak
+.DS_STORE
