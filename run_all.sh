@@ -1,3 +1,5 @@
+#!/bin/bash
+
 IFS=$'\n' read -d "" -r -a lines < "$1.txt"
 
 for i in "${lines[@]}"
