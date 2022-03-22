@@ -1,6 +1,6 @@
-﻿https://www.gazprom.ru
-https://lukoil.ru
-https://magnit.ru
+﻿https://www.tinkoff.ru
+https://sberbank.ru
+https://alfabank.ru
 https://www.nornickel.com 
 https://www.surgutneftegas.ru
 https://www.tatneft.ru 
